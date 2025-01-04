@@ -50,7 +50,7 @@ This project builds on the foundational work provided in The Clever Programmer's
 
 ## References
 
- 1. [Customer Success Metrics]([https://www.masterclass.com/articles/what-is-click-through-rate](https://blog.hubspot.com/service/customer-success-metrics))
+ 1. [Customer Success Metrics](https://blog.hubspot.com/service/customer-success-metrics)
  2. [Project Reference](https://thecleverprogrammer.com/2023/01/16/ads-click-through-rate-prediction-using-python/)
  3. [Dataset](https://statso.io/customer-lifetime-value-analytics-case-study/)
  
